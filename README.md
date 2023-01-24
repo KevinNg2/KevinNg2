@@ -39,7 +39,7 @@ I want to help other's reach their fitness goals and further my reach by connect
 <p align="left">
     <a href="https://www.instagram.com/kevin_ng___/" class="fa fa-instagram"></a>
 
-<a href="mailto: kevinng3292@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="emailkevin" height="30" width="40" /></a>
+<a href="mailto: kevinng3292@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="emailkevin" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kevinng3292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevinnglinkedin" height="30" width="40" /></a>
 <a href="https://leetcode.com/kevinng3292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codinglayla" height="30" width="40" /></a>
 </p>
