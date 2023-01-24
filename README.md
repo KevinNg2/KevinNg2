@@ -36,6 +36,9 @@ I want to help other's reach their fitness goals and further my reach by connect
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KevinNg2)](https://git.io/streak-stats)
 <br>
 
+[![KevinNg2's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinNg2)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Let's Connect
 
 <h3 align="left">my social media</h3>
@@ -51,4 +54,3 @@ I want to help other's reach their fitness goals and further my reach by connect
 <br>
 
 
-[![KevinNg2's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinNg2)](https://github.com/anuraghazra/github-readme-stats)
