@@ -12,6 +12,8 @@
 * I was a contributing member of the 2011 URI Men's East Coast Club Swim Championship Team as a breaststroker
 * Currently a CFL1 Coach in Dana Point, CA at Beach Cities Fitness. 
 * Lover of all things outdoors and fitness. 🏌️‍♂️🏂🏊
+* Email me: kevinng3292@gmail.com
+* ['My Instagram'](https://www.instagram.com/kevin_ng___/)
 
 I want to help other's reach their fitness goals and further my reach by connecting with more people online
 
@@ -38,9 +40,6 @@ I want to help other's reach their fitness goals and further my reach by connect
 <h3 align="left">my social media</h3>
 <p align="left">
   
-<a href="https://www.instagram.com/kevin_ng___/" target="blank><img align= "center" src="https://icons8.com/icon/YtpeVQhQ8USm/instagram" alt="kevin_ng__" height="30" width="40" /></a>
-
-<a href="mailto: kevinng3292@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="emailkevin" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kevinng3292/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="kevinnglinkedin" height="30" width="40" /></a>
 <a href="https://leetcode.com/kevinng3292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codinglayla" height="30" width="40" /></a>
 </p>
