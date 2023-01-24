@@ -49,3 +49,6 @@ I want to help other's reach their fitness goals and further my reach by connect
 
     
 <br>
+
+
+[![KevinNg2's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinNg2)](https://github.com/anuraghazra/github-readme-stats)
