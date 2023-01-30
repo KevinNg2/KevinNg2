@@ -8,7 +8,7 @@
 <h3 align="center"> Full Stack Web Developer Bootcamp Graduate from UCI! </h3>
 
 ## About Me
-* My stack includes: React, Node.js, Node.js, Next.js, MySQL, MongoDB
+* My stack includes: React, Node.js, Next.js, MySQL, MongoDB
 * I was a contributing member of the 2011 URI Men's East Coast Club Swim Championship Team as a breaststroker
 * Currently a CFL1 Coach in Dana Point, CA at Beach Cities Fitness. 
 * Lover of all things outdoors and fitness. 🏌️‍♂️🏂🏊
