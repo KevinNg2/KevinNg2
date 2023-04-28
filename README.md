@@ -8,22 +8,21 @@
 <h3 align="center"> Full Stack Web Developer Bootcamp Graduate from UCI! </h3>
 
 ## About Me
+
+```javascript
 const kevin = {
-  code: [Javascript, React, Node, Express, HTML, CSS, MySQL, MongoDB],
+  code: [Javascript, React, Node, Express, HTML, Tailwind CSS, MySQL, MongoDB, Typescript],
   interest: [web development, swimming, reading, music, crossfit],
-  favoriteBook: ["When Breathe becomes Air", "Conversations with God", "Sapiens", "The Courage to be Disliked"],
-  favoriteFood: [pasta, sushi, ayce tacos, pho, din tai fung],
+  favoriteFood: [pasta, pho, tacos, ayce sushi, din tai fung],
   goal: "Provide immersive digital experiences through pixel perfect design and development"
 }
-
+```
 * My stack includes: React, Node.js, Next.js, MySQL, MongoDB
 * I was a contributing member of the 2011 URI Men's East Coast Club Swim Championship Team as a breaststroker
 * Currently a CFL1 Coach in Dana Point, CA at Beach Cities Fitness. 
 * Lover of all things outdoors and fitness. 🏌️‍♂️🏂🏊
 * Email me: kevinng3292@gmail.com
 * ['My Instagram'](https://www.instagram.com/kevin_ng___/)
-
-
 
 I want to help other's reach their fitness goals and further my reach by connecting with more people online
 
