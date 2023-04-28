@@ -17,8 +17,7 @@ const kevin = {
   goal: "Provide immersive digital experiences through pixel perfect design and development"
 }
 ```
-* My stack includes: React, Node.js, Next.js, MySQL, MongoDB
-* I was a contributing member of the 2011 URI Men's East Coast Club Swim Championship Team as a breaststroker
+* Member of the 2011 URI Men's East Coast Club Swim Championship Team as a breaststroker
 * Currently a CFL1 Coach in Dana Point, CA at Beach Cities Fitness. 
 * Lover of all things outdoors and fitness. 🏌️‍♂️🏂🏊
 * Email me: kevinng3292@gmail.com
