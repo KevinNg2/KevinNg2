@@ -1,66 +1,127 @@
-  <div align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 <br>
 
-<h1 align="center"> 🤝 Hi there! I'm Kevin Ng </h1>
+<h1 align="center">👋 Hi, I'm Kevin Ng</h1>
 
-<h3 align="center"> Full Stack Web Developer Bootcamp Graduate from UCI! </h3>
+<h3 align="center">
+Full Stack Software Engineer with 2.5 years of professional experience building enterprise applications at Presidio.  
+I specialize in developing scalable web applications with a focus on performance, usability, and clean architecture.
+</h3>
 
-## About Me
+---
 
-```javascript
-const kevin = {
-  code: [Javascript, React, Node, Express, HTML, Tailwind CSS, MySQL, MongoDB, Typescript],
-  interest: [web development, swimming, reading, music, crossfit],
-  favoriteFood: [pasta, pho, tacos, ayce sushi, din tai fung],
-  goal: "Provide immersive digital experiences through pixel perfect design and development"
-}
-```
-* Member of the 2011 URI Men's East Coast Club Swim Championship Team as a breaststroker
-* Currently a CFL1 Coach in Dana Point, CA at Beach Cities Fitness. 
-* Lover of all things outdoors and fitness. 🏌️‍♂️🏂🏊
-* Email me: kevinng3292@gmail.com
-* ['My Instagram'](https://www.instagram.com/kevin_ng___/)
+## 💼 Professional Experience
 
-I want to help other's reach their fitness goals and further my reach by connecting with more people online
+**Full Stack Software Engineer — Presidio (2.5 years)**  
+- Developed and maintained enterprise-level applications for clients across multiple industries  
+- Collaborated with cross-functional teams including product, design, and stakeholders to deliver end-to-end solutions  
+- Built data-driven interfaces and APIs supporting complex business workflows  
+- Contributed to projects for organizations including:
+  - PGA Tour  
+  - Florida Department of Corrections  
+  - Ardent Mills  
 
-## Languages and Technologies
- 
-<div>
-<!--       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="60" height="40"/>&nbsp;
-<!--   <img src="https://icons8.com/icon/WNoJgbzDr3i2/express-js" title="Express" alt="Express" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
- 
-</div>
+---
 
-## Let's Connect
+## 🚧 Featured Project Experience
 
-<h3 align="left">my social media</h3>
-<p align="left">
-  
-<a href="https://www.linkedin.com/in/kevinng3292/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="kevinnglinkedin" height="30" width="40" /></a>
-<a href="https://leetcode.com/kevinng3292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codinglayla" height="30" width="40" /></a>
+### PGA TOUR – Enterprise Tournament Management Platform
+
+Contributed to a large-scale enterprise application used to manage PGA TOUR tournament data, reporting, and operational workflows. The platform supported internal stakeholders with tools for tournament configuration, groupings, reporting, and real-time data visibility.
+
+**Responsibilities & Contributions:**
+- Developed and enhanced frontend features using React and TypeScript for data-heavy, interactive dashboards  
+- Built reusable UI components to support consistent behavior across multiple modules  
+- Implemented complex UI logic for tournament workflows, including groupings, rounds, and reporting states  
+- Integrated frontend features with backend APIs to manage tournament data and real-time updates  
+- Collaborated with cross-functional teams to refine requirements, resolve defects, and improve usability  
+- Participated in debugging and resolving production issues across multiple feature areas  
+
+**Key Feature Areas Worked On:**
+- Tournament header enhancements including version visibility, tournament hover interactions, and timezone-aware displays  
+- Tournament metadata improvements such as course numbers and course acronyms  
+- Reporting UI fixes and enhancements across multiple report types including Raguzzi V2 and Pace of Play reports  
+- Modal and UI experience improvements including image modal behavior and dark mode visibility controls  
+- Grouping workflows including course selectors, grouping toggles, and copying groupings between rounds  
+- Conditional business logic for tournament states, including playoff restrictions and generated shell workflows  
+- Feature additions such as inclement weather suspension types and improved tournament configuration options  
+
+**Impact:**
+- Improved usability and clarity of complex tournament workflows for internal users  
+- Increased consistency across tournament configuration and reporting features  
+- Enhanced reliability of grouping and reporting systems through UI and logic refinements  
+- Contributed to a more maintainable and scalable frontend architecture through reusable components and patterns  
+
+**Environment & Tools:**  
+React, TypeScript, JavaScript, Node.js, REST APIs, enterprise data systems, Agile development workflows  
+
+---
+
+## 🧰 Tech Stack
+
+**Languages & Frameworks**
+- TypeScript, JavaScript  
+- React, Node.js  
+- HTML, CSS, Tailwind CSS  
+
+**Backend & Data**
+- Express  
+- MySQL, MongoDB  
+
+**Cloud & Platforms**
+- AWS  
+- Azure  
+
+**Additional Experience**
+- Python (familiar)  
+- C#, .NET (familiar)  
+
+---
+
+## 🚀 What I Do
+
+- Build full stack web applications from concept to deployment  
+- Design and implement reusable, scalable UI components  
+- Develop RESTful APIs and integrate with backend services  
+- Work with complex, data-heavy systems and optimize for performance  
+- Collaborate closely with teams to translate business requirements into technical solutions  
+
+---
+
+## 🧠 About Me
+
+- Former competitive swimmer and member of the 2011 URI Men’s East Coast Club Swim Championship Team 🏊  
+- Certified CrossFit Level 1 Coach (CFL1) in Dana Point, CA  
+- Passionate about fitness, continuous improvement, and discipline  
+- Enjoy CrossFit, swimming, golf, snowboarding, and staying active outdoors  
+
+---
+
+## 🎯 Goals
+
+Continuing to grow as a software engineer while building impactful, user-focused products.  
+Particularly interested in opportunities involving scalable systems, AI-driven applications, and platforms that solve real-world problems.
+
+---
+
+## 📫 Contact
+
+- Email: kevinng3292@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/kevinng3292/  
+- LeetCode: https://leetcode.com/kevinng3292/  
+- Instagram: https://www.instagram.com/kevin_ng___/  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=KevinNg2" />
 </p>
 
-    
-<br>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KevinNg2)](https://git.io/streak-stats)
-<br>
-
-[![KevinNg2's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinNg2)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinNg2" />
+</p>
