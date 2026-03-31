@@ -110,18 +110,4 @@ Particularly interested in opportunities involving scalable systems, AI-driven a
 ## 📫 Contact
 
 - Email: kevinng3292@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/kevinng3292/  
-- LeetCode: https://leetcode.com/kevinng3292/  
-- Instagram: https://www.instagram.com/kevin_ng___/  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=KevinNg2" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinNg2" />
-</p>
+- LinkedIn: https://www.linkedin.com/in/kevinng3292/
