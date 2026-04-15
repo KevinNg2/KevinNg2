@@ -60,6 +60,39 @@ React, TypeScript, JavaScript, Node.js, REST APIs, enterprise data systems, Agil
 
 ---
 
+### Ardent Mills L2 Application Support Engineer
+L2 Application Support Engineer — Ardent Mills (via Presidio) (Nov 2023 – Sep 2024 | Remote)
+Owned L2 support operations for a large-scale enterprise environment running Dynamics 365 F&O, custom .NET and Angular applications, and a full suite of Azure services under strict SLA requirements.
+
+Responsibilities & Contributions:
+
+Triaged, debugged, and resolved production incidents across Azure services and enterprise applications using ServiceNow
+Investigated and resolved issues directly within .NET and Angular codebases, identifying root causes and implementing fixes
+Acted as a primary escalation point during critical production incidents, driving rapid resolution and minimizing downtime
+Coordinated across onshore and offshore teams to manage backlog, prioritize incidents, and deliver enhancements
+Authored knowledge bases and runbooks to improve team response consistency and operational efficiency
+
+Key Feature Areas Worked On:
+
+Azure App Services supporting enterprise web applications
+Azure Function Apps and Logic Apps powering backend workflows and integrations
+Azure SQL Databases and Data Factory pipelines for data processing and movement
+Dynamics 365 F&O integrations within broader enterprise systems
+Custom .NET and Angular applications supporting business critical operations
+
+Impact:
+
+Reduced incident resolution time through hands on debugging and improved documentation
+Improved production stability across a distributed Azure based system
+Strengthened escalation handling and incident response during high priority outages
+Increased team efficiency through better knowledge sharing and operational processes
+
+Environment & Tools:
+Azure App Services, Function Apps, Logic Apps, Data Factory, Azure SQL, Dynamics 365 F&O, .NET, Angular, ServiceNow, enterprise production systems
+
+
+
+
 ## 🧰 Tech Stack
 
 **Languages & Frameworks**
